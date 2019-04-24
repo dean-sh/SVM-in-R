@@ -1,0 +1,7 @@
+install.packages("caret")
+install.packages("ggplot2")
+install.packages("e1071")
+install.packages("dplyr")
+install.packages("boot")
+install.packages("rgl")
+install.packages("misc3d")
